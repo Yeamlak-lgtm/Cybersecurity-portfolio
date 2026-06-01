@@ -25,3 +25,10 @@ This project demonstrates a cybersecurity assessment of a fictional financial se
 - NIST CSF 2.0
 - Security Documentation
 - Gap Analysis
+
+## Project Deliverables
+- Asset Inventory
+- Risk Assessment
+- NIST CSF 2.0 Gap Analysis
+- Security Recommendations
+- Executive Summary Report
