@@ -1,4 +1,4 @@
-# NIST CSR 2.0 Assessment
+# NIST CSF 2.0 Assessment
 ## Company Overview
 This project demonstrates a cybersecurity assessment of a fictional financial services company using the NIST Cybersecurity Framework (CSF) 2.0.
 ### Company Information
