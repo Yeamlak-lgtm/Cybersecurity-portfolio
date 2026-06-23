@@ -7,10 +7,10 @@ Cybersecurity student at UTSA with a primary interest in Governance, Risk, and C
 A cybersecurity assessment of a fictional financial services organization using the NIST Cybersecurity Framework (CSF) 2.0.
 
 Deliverables:
-- Asset Inventory
-- Risk Register
-- Gap Analysis
-- Executive Summary
+-Asset Inventory ✅
+Risk Register 🔄 In Progress
+Gap Analysis ⏳ Planned
+Executive Summary ⏳ Planned
 
 ### Future Projects
 - Security Policy Repository
