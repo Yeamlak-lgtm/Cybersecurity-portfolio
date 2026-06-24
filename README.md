@@ -8,9 +8,9 @@ A cybersecurity assessment of a fictional financial services organization using 
 
 Deliverables:
 -Asset Inventory ✅
-Risk Register 🔄 In Progress
-Gap Analysis ⏳ Planned
-Executive Summary ⏳ Planned
+Risk Register ✅ 
+Gap Analysis ✅ 
+Executive Summary ✅ 
 
 ### Future Projects
 - Security Policy Repository
