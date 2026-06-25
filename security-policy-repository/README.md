@@ -1,0 +1,58 @@
+# Security Policy Repository
+
+## Overview
+
+This repository contains cybersecurity policies developed for Ariel Financial Services, a fictional financial services organization.
+
+The policies are designed to support the organization's Governance, Risk, and Compliance (GRC) program by establishing security expectations, protecting business assets, and reducing organizational risk.
+
+This project builds upon the findings from the NIST CSF 2.0 Assessment by addressing identified security gaps through documented policies and governance practices.
+
+---
+
+## Company Profile
+
+**Organization:** Ariel Financial Services
+
+**Industry:** Financial Services
+
+**Employees:** 50
+
+**Technology Environment**
+
+- Microsoft 365
+- Employee Laptops
+- Customer Database
+- Cloud Storage
+- Company Website
+
+---
+
+## Objectives
+
+- Establish cybersecurity governance documentation
+- Define security responsibilities for employees
+- Reduce organizational cybersecurity risk
+- Support compliance with security best practices
+- Strengthen alignment with the NIST Cybersecurity Framework (CSF) 2.0
+
+---
+
+## Policies Included
+
+- Password Policy
+- Acceptable Use Policy
+- Data Classification Policy
+- Incident Response Policy
+- Remote Work Policy
+
+---
+
+## Skills Demonstrated
+
+- Governance, Risk, and Compliance (GRC)
+- Security Policy Development
+- Cybersecurity Governance
+- Security Documentation
+- NIST CSF 2.0 Alignment
+- Risk Mitigation
