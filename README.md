@@ -36,7 +36,7 @@ Executive Summary ✅
 - Tools of the Trade: Linux and SQL, Coursera, 2025.
 ### In Progress
 - IBM Cybersecurity Analyst
-- ISC@ Certified in Cybersecurity (CC)
+- ISC2 Certified in Cybersecurity (CC)
   
 ## Career Interests
 - Governance, Risk and Compliance (CC)
