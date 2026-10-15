@@ -35,8 +35,8 @@ Executive Summary ✅
 - Connect and Protect: Networks and Network Security, Coursera, 2025.
 - Tools of the Trade: Linux and SQL, Coursera, 2025.
 ### In Progress
-- IBM Cybersecurity Analyst
-- ISC2 Certified in Cybersecurity (CC)
+- CompTIA Security+ 
+- (ISC)² Certified in Governance, Risk and Compliance, CGRC 
   
 ## Career Interests
 - Governance, Risk and Compliance (CC)
